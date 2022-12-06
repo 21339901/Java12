@@ -1,6 +1,6 @@
-package hibiki;
+package Java12;
 
-public class Main {
+public class Class17 {
 	
 	public static void main(String[] args) {
 			System.out.println(Short.parseShort("262904713"));
